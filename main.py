@@ -1,6 +1,3 @@
-import os
-
-
 def replace_text_in_file(file_path, text_to_replace, replacement_text):
     try:
         # Открываем файл и читаем его содержимое
