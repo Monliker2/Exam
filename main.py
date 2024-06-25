@@ -20,7 +20,7 @@ def replace_text_in_file(file_path, text_to_replace, replacement_text):
 
 
 def main():
-    file_path = "C:\\Users\\PC\\PycharmProjects\\Exam\\exam\\exam\\MyForm.h"
+    file_path = "exam\\exam\\MyForm.h"
     print("Enter amount of numbers:")
     amount = int(input())
 
