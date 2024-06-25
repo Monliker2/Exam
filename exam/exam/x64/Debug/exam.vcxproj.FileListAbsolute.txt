@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\exam\exam\x64\Debug\exam.vcxproj.AssemblyReference.cache
+C:\Users\PC\source\repos\exam\exam\x64\Debug\exam.MyForm.resources
+C:\Users\PC\source\repos\exam\exam\x64\Debug\exam.vcxproj.GenerateResource.cache
+C:\Users\PC\PycharmProjects\Exam\exam\exam\x64\Debug\exam.vcxproj.AssemblyReference.cache
+C:\Users\PC\PycharmProjects\Exam\exam\exam\x64\Debug\exam.MyForm.resources
+C:\Users\PC\PycharmProjects\Exam\exam\exam\x64\Debug\exam.vcxproj.GenerateResource.cache
